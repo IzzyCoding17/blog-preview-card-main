@@ -29,7 +29,6 @@ Users should be able to:
 
 ### Screenshot
 ![alt text](<solution img/mobile img.jpeg>)
-![image](./solution img/website img.jpeg)
 
 
 ### Links
